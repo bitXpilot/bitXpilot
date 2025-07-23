@@ -1,8 +1,9 @@
 ### ~~ Wecome ~~ 👋
 
 - 🔭 ** PHP, Laravel, NodeJS, Python
-- 🔭 ** Android/Java/Kotlin, iOS/Swift, ReactJS/VueJS/TypeScript, Javascript, jQuery,
-- 🔭 ** Firebase(Analytics, Crashlytics, SMS, Email, Notification, Functions)
+- 🔭 ** ReactJS/Next.js/VueJS/TypeScript, Javascript, jQuery,
+- 🔭 ** Android/Java/Kotlin, iOS/Swift
+- 🔭 ** Firebase, AWS, GCP, Azure
 - 🔭 ** Stripe, Paypal, Plaid, Flutterwave, Railsbank, Square
 - 🔭 ** Blockchain, web3, etherjs, walletconnect, metamask, rainbowkit, wagmi
 - 🌱 I focus on FinTech.
